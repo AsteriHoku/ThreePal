@@ -1,0 +1,15 @@
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\bin\Debug\net6.0\ThreePal.exe
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\bin\Debug\net6.0\ThreePal.deps.json
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\bin\Debug\net6.0\ThreePal.runtimeconfig.json
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\bin\Debug\net6.0\ThreePal.dll
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\bin\Debug\net6.0\ref\ThreePal.dll
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\bin\Debug\net6.0\ThreePal.pdb
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.csproj.AssemblyReference.cache
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.AssemblyInfoInputs.cache
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.AssemblyInfo.cs
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.csproj.CoreCompileInputs.cache
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.dll
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ref\ThreePal.dll
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.pdb
+C:\Users\lixas\RiderProjects\ThreePal\ThreePal\obj\Debug\net6.0\ThreePal.genruntimeconfig.cache
